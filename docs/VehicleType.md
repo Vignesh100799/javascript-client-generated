@@ -1,0 +1,25 @@
+# TollGuruCalculator.VehicleType
+
+## Enum
+
+* `2AxlesAuto` (value: `"2AxlesAuto"`)
+* `3AxlesAuto` (value: `"3AxlesAuto"`)
+* `4AxlesAuto` (value: `"4AxlesAuto"`)
+* `2AxlesDualTire` (value: `"2AxlesDualTire"`)
+* `3AxlesDualTire` (value: `"3AxlesDualTire"`)
+* `4AxlesDualTire` (value: `"4AxlesDualTire"`)
+* `2AxlesTruck` (value: `"2AxlesTruck"`)
+* `3AxlesTruck` (value: `"3AxlesTruck"`)
+* `4AxlesTruck` (value: `"4AxlesTruck"`)
+* `5AxlesTruck` (value: `"5AxlesTruck"`)
+* `6AxlesTruck` (value: `"6AxlesTruck"`)
+* `7AxlesTruck` (value: `"7AxlesTruck"`)
+* `8AxlesTruck` (value: `"8AxlesTruck"`)
+* `9AxlesTruck` (value: `"9AxlesTruck"`)
+* `2AxlesBus` (value: `"2AxlesBus"`)
+* `3AxlesBus` (value: `"3AxlesBus"`)
+* `2AxlesMotorcycle` (value: `"2AxlesMotorcycle"`)
+* `3AxlesMotorcycle` (value: `"3AxlesMotorcycle"`)
+* `2AxlesRv` (value: `"2AxlesRv"`)
+* `3AxlesRv` (value: `"3AxlesRv"`)
+* `4AxlesRv` (value: `"4AxlesRv"`)
